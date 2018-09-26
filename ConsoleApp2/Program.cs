@@ -10,8 +10,8 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello git1");
-            Console.WriteLine("Ny ændring");
+            Console.WriteLine("hello git1 ændret på pc2");
+            Console.WriteLine("Ny ændring på pc1");
             Console.ReadLine();
         }
     }
