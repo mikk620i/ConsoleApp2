@@ -10,6 +10,9 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello git1");
+            Console.ReadLine("ny ændring");
+            Console.ReadLine();
         }
     }
 }

@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace helper
+namespace ConsoleApp2
 {
-    class Class1
+    class helper
     {
-
     }
 }
